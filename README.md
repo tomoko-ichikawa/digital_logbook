@@ -42,3 +42,4 @@ https://drive.google.com/open?id=1VLEbYVdWZLl2wNPmixt8egPdk8KTThTM
 carrierwave
 mini_magick
 devise
+ransack
